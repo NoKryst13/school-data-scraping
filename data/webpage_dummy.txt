@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dummy Webpage</title>
+</head>
+<body>
+    <div>
+        <a href="http://www.example.com/school1">School 1</a>
+    </div>
+    <div>
+        <a href="http://www.example.com/school2">School 2</a>
+    </div>
+    <div>
+        <a href="http://www.example.com/school3">School 3</a>
+    </div>
+    <div>
+        <a href="http://www.example.com/school4">School 4</a>
+    </div>
+    <div>
+        <a href="http://www.example.com/school5">School 5</a>
+    </div>
+    <div>
+        <a href="http://www.example.com/school6">School 6</a>
+    </div>
+    <div>
+        <a href="http://www.example.com/school7">School 7</a>
+    </div>
+    <div>
+        <a href="http://www.example.com/school8">School 8</a>
+    </div>
+    <div>
+        <a href="http://www.example.com/school9">School 9</a>
+    </div>
+    <div>
+        <a href="http://www.example.com/school10">School 10</a>
+    </div>
+</body>
+</html>
+
