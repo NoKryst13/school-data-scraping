@@ -35,7 +35,6 @@ The dataset includes:
 ---
 
 ## **Visualization**
-![Email Coverage Bundesländer](plots/school_email_coverage.png)
 ![Email Coverage Overview](plots/email_coverage_comparison_with_tables.png)
 ![Email Coverage Map](plots/plot_maps.png)
 
