@@ -37,6 +37,7 @@ The dataset includes:
 ## **Visualization**
 ![Email Coverage Overview](plots/email_coverage_comparison_with_tables.png)
 ![Email Coverage Map](plots/plot_maps.png)
+**For more plots and tables explore the jupyter notebook and the plots folder**
 
 ## **Key Findings**
 
