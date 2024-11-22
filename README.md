@@ -9,7 +9,7 @@ This repository contains a project developed during my time as a working student
 
 The project focuses on answering two key questions:
 
-1. **For how many schools (per county) can we obtain email addresses?**  
+1. **For how many schools (per Bundesland) can we obtain email addresses?**  
 2. **Should we buy additional datasets to improve coverage?**
 
 To achieve this, the following steps were implemented:
@@ -35,7 +35,7 @@ The dataset includes:
 ---
 
 ## **Visualization**
-
+![Email Coverage Bundesländer](plots/school_email_coverage.png)
 ![Email Coverage Overview](plots/email_coverage_comparison_with_tables.png)
 ![Email Coverage Map](plots/plot_maps.png)
 
